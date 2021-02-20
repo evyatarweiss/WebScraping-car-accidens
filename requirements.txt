@@ -1,0 +1,6 @@
+Flask==1.1.2
+pandas_gbq==0.14.1
+tabula_py==2.2.0
+requests==2.24.0
+beautifulsoup4==4.9.3
+tabula==1.0.5
